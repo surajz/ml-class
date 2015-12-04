@@ -1,20 +1,28 @@
-Introduction
-============
+Here you can find my solutions to the Programming Exercises for the online Stanford Machine learning course (http://www.ml-class.org)
 
-There are my solutions for Programming Exercises from Machine Learning Stanford classes. Made in `GNU Octave`_.
+* CS229 Machine Learning - Lecture Notes/
+Additional lecture notes from the on-campus CS229 course. Useful as extra references.
 
-.. _GNU Octave: https://www.gnu.org/software/octave/
+* Linear regresssion with one/multi variables
+linear-regression/mlclass-ex1
 
-Honor Code
-==========
+* Classification using logistic regression 
+logistic-regression/mlclass-ex2
 
-This is quote from `Course Info`_ page:
+* Multi-class classification and neural networks
+neural-network/mlclass-ex3
 
-    For the programming exercises, you are welcome to discuss them with other
-    students, discuss specific algorithms, properties of algorithms, etc.; we
-    ask only that you not look at any source code written by a different
-    student, nor show your solution code to other students.
+* Neural network learning
+neural-network/mlclass-ex4
 
-    -- Professor Andrew Ng & The ml-class Team
+* Regularized linear regression and bias-variance
+linear-regression/mlclass-ex5
 
-.. _Course Info: http://www.ml-class.org/course/resources/index?page=course-info
+* Support Vector Machines
+support-vector-machine/mlclass-ex6
+
+* K-Means Clustering and PCA
+k_means-pca/mlclass-ex7
+
+* Anomaly Detection and Recommender Systems
+anomaly_det-recommender/mlclass-ex8
